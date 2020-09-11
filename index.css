@@ -1,0 +1,85 @@
+
+/* search page */
+.headpic{
+ margin-left: auto;
+margin-right: auto; 
+height: 350px;
+width: 96%;
+}
+#searchbar{
+position: relative;
+right: 10%;
+bottom:460%;
+z-index: 1;
+}
+#movie-button{
+  position: relative;
+  bottom:460%;
+  right: 75%;
+  z-index: 1;
+}
+/* home page */
+  #movie-callback{
+ display: flex;
+ overflow-x:auto;
+ overflow-y:hidden;
+ position: relative;
+background-color: grey;
+}
+#upcoming{
+  display: flex;
+  overflow-x:auto;
+ overflow-y:hidden;
+ position: relative;
+background-color: black;
+}
+#upcoming img{
+width:300px;
+transition: 150ms all;
+height: 100%;
+padding: 20px;
+}
+#popular{
+  display: flex;
+  overflow-x:auto;
+ overflow-y:hidden;
+ position: relative;
+background-color: grey;
+}
+#popular img{
+width:300px;
+transition: 150ms all;
+height: 100%;
+padding: 20px;
+}
+  #newmovie{
+  display: flex;
+  width:100%;
+  overflow-x: visible; 
+}
+h1{
+ text-align: center;
+}
+#movie-callback img{
+  width:300px;
+  transition: 150ms all;
+  height: 100%;
+  padding: 20px;
+}
+h1{
+  color:white;
+}
+.sectionOne{
+  background-color: grey;
+
+}
+.sectionTwo{  
+  background-color: brown;
+
+}
+.sectionThree{
+  background-color: grey;
+}
+.movie-container{
+background-color: black;
+}
