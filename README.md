@@ -1,2 +1,2 @@
 # MovieApp
-A simple search movie app project.
+A simple web movie app project.
